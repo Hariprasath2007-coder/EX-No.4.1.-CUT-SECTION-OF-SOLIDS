@@ -1,5 +1,7 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:
+## DATE: 28-11-2025
+## Developed By : HARI PRASATH E
+## Ref No : 25007799
 
 ## AIM
 To create the solid model from given drawing and section the solid model
@@ -41,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+
+<img width="1090" height="763" alt="EDM  4 1" src="https://github.com/user-attachments/assets/6385d61b-cb94-4ae4-9a3d-ea5d08a4354c" />
 
 ## RESULT:
 
