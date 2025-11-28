@@ -44,7 +44,7 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
-<img width="1090" height="763" alt="EDM  4 1" src="https://github.com/user-attachments/assets/6385d61b-cb94-4ae4-9a3d-ea5d08a4354c" />
+<img width="1086" height="768" alt="EDM 4 1" src="https://github.com/user-attachments/assets/67d65621-34ac-4879-9d72-2892b2f0a8d8" />
 
 ## RESULT:
 
